@@ -5,4 +5,4 @@
 - 📫 How to reach me:
 -     Linkedin: https://www.linkedin.com/in/kyradev-lma/
 -     E-mail:   kyrael.dev@gmail.com
-- ⚡ Fun fact: I like coding with a big pikachu blanket... but don't tell anyone. It's my pika-secret.
+- ⚡ Fun fact: I like coding with a big pikachu blanket... but don't tell anyone. It's my pika-secret. Gek Mercante.
