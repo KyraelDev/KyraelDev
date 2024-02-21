@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @KyraelDev, my name is Marcello and I'm an Italian student, currently studying Software Engineering in Catania, Sicily.
+- 👀 I’m interested in learning, working and collaborating with fellow developers to build and envision future technologies together, and be part of the change I want to see in the world!
+- 🌱 I’m currently learning JavaScript, Java and Python
+- 💞️ I’m looking to collaborate on whichever project will lead me to new and exciting knowledge to improve myself.
+- 📫 How to reach me:
+-     Linkedin: https://www.linkedin.com/in/kyradev-lma/
+-     E-mail:   kyrael.dev@gmail.com
+- ⚡ Fun fact: I like coding with a big pikachu blanket... but don't tell anyone. It's my pika-secret.
