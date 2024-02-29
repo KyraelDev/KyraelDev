@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Java and Python. Still learning Vue.Js and React frameworks. I'm interested in learning more exciting tech to enhance workflow and my general knowledge of coding concepts.
 - 💞️ I’m looking to collaborate on whichever project will lead me to new and exciting knowledge to improve myself.
 - 📫 How to reach me:
--     Linkedin: https://www.linkedin.com/in/kyradev-lma/
+-     Linkedin: https: //www.linkedin.com/in/kyradev-lma/
+-     Stack Overflow: https://stackoverflow.com/users/23445990/kyradev
 -     E-mail:   kyrael.dev@gmail.com
 - ⚡ Fun fact: I like coding with a big pikachu blanket... but don't tell anyone. It's my pika-secret. Gek Mercante.
