@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KyraelDev, my name is Marcello and I'm an Italian student, currently studying Software Engineering in Catania, Sicily.
 - 👀 I’m interested in learning, working and collaborating with fellow developers to build and envision future technologies together, and be part of the change I want to see in the world!
 - 🌱 I’m currently learning JavaScript, Java and Python. Still learning Vue.Js and React frameworks. I'm interested in learning more exciting tech to enhance workflow and my general knowledge of coding concepts.
-- 💞️ I’m looking to collaborate on whichever project will lead me to new and exciting knowledge to improve myself.
+- 💞️ I’m looking to collaborate on whichever project will lead me to new and useful knowledge to improve myself.
 - 📫 How to reach me:
 -     Linkedin: https: //www.linkedin.com/in/kyradev-lma/
 -     Stack Overflow: https://stackoverflow.com/users/23445990/kyradev
