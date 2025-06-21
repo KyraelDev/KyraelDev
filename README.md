@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate and connect with fellow Devs or Senior Devs on whichever project will lead me to new and useful knowledge to improve myself!
 - 📫 How to reach me:
 -     Linkedin: https: //www.linkedin.com/in/kyradev-lma/
--     Stack Overflow: https://stackoverflow.com/users/23445990/kyradev
 -     E-mail:   kyrael.dev@gmail.com
