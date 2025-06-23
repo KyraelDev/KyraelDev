@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning JavaScript, Java and Python. Still learning Vue.Js and React frameworks. I'm interested in learning more tech tools to enhance my general knowledge of development.
 - 💞️ I’m looking to collaborate and connect with fellow Devs or Senior Devs on whichever project will lead me to new and useful knowledge to improve myself!
 - 📫 How to reach me:
--     Linkedin: https: //www.linkedin.com/in/kyradev-lma/
 -     E-mail:   kyrael.dev@gmail.com
