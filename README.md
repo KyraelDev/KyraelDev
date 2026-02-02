@@ -1,6 +1,6 @@
 - 👋 Hi, I'm an Italian student currently exploring Computer Science and Software Engineering in Catania's University, Sicily.
 - 👀 I’m interested in learning, working and collaborating with fellow developers to build cool stuff together, and be part of the change I want to see in the world!
-- 🌱 I’m currently learning JavaScript, Java and Python. Still learning Vue.Js and React frameworks. I'm interested in learning more tech tools to enhance my general knowledge of development.
-- 💞️ I’m looking to collaborate and connect with fellow Devs or Senior Devs on whichever project will lead me to new and useful knowledge to improve myself!
+- 🌱 I’m currently learning JavaScript, Java and Python. Still learning Vue.Js and React frameworks. I'm interested in learning more tech tools to enhance my knowledge of development practices.
+- 💞️ I’m looking to collaborate and connect with fellow Devs on whichever project will lead me to new and fun/useful knowledge.
 - 📫 How to reach me:
 -     E-mail:   kyrael.dev@gmail.com
