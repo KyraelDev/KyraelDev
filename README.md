@@ -1,4 +1,4 @@
-- 👋 Hi, I'm an Italian Junior System Engineer based in Catania, Italy.
+- 👋 Hi, I'm an Italian System Engineer based in Italy.
 - 👀 I’m interested in learning, working and collaborating with fellow engineers to build cool stuff together, and be part of the progress I want to see in tech!
 - 🌱 I'm interested in learning more tech tools to enhance my knowledge of development practices and systems engineering.
 - 💞️ I’m looking to collaborate and connect with fellow techies on whichever project will lead me to new and fun/useful knowledge.
